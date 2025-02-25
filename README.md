@@ -38,7 +38,7 @@ Created by Haytham Abo Abdallah for internal company use.
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/pdf-extractor-tool.git
+   git clone https://github.com/ICEBETA4/PDF-Extractor-Tool.git
    cd pdf-extractor-tool
    ```
 
